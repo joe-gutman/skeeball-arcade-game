@@ -20,3 +20,6 @@ This project brings a classic arcade experience into Second Life, reimagining th
 
 Players are invited to dive straight into the action with minimal setup, enjoying the timeless challenge of aiming for high scores in a digitally reimagined Skeeball environment. The game's straightforward controls, combined with its faithful adherence to the physics of Skeeball, promise a rewarding arcade experience, complete with the thrill of skillful score achievement.
 
+## Video Demo
+
+[![Skeeball Demo](https://youtube.com/qVU8bqb2iz8/0.png)[https://youtube.com/watch?v=qVU8bqb2iz8]
