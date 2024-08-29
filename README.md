@@ -22,4 +22,5 @@ Players are invited to dive straight into the action with minimal setup, enjoyin
 
 ## Video Demo
 
-[![Skeeball Demo](https://youtube.com/qVU8bqb2iz8/0.png)(https://youtube.com/watch?v=qVU8bqb2iz8)]
+https://github.com/user-attachments/assets/4d71fc01-e7ed-4033-a617-7e0cc5a267eb
+
